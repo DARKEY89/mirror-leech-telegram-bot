@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002496854539"
 SUDO_USERS = "5857491193"
-DATABASE_URL = "mongodb+srv://DARKEY22:DARKEY1616___@darkey.xgndt.mongodb.net/?retryWrites=true&w=majority&appName=DARKEY"
+DATABASE_URL = "mongodb+srv://temaga6324:rolex143@cluster0.hinoe.mongodb.net/?retryWrites=true&w=majority"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
